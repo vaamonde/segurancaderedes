@@ -1,0 +1,1 @@
+Scripts utilizados no curso
