@@ -1,5 +1,7 @@
 Soluções que serão utilizadas no curso
 
+Apresentação do Primeiro dia: https://github.com/vaamonde/segurancaderedes/blob/master/pdf/ApresentacaoCursoDeSeguranca.pdf
+
 Inventário de Rede:	
 Sistema Operacional: Ubuntu Server 16.04 LTS x64 
 Download: http://releases.ubuntu.com/16.04/
