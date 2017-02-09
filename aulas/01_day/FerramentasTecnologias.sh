@@ -48,3 +48,6 @@ http://www.toptenreviews.com/software/security/best-antivirus-software/
 
 Sistema Operacional de Teste de Intrusão
 Pentest: Kali Linux: https://www.kali.org/
+
+Ferramentas de Segurança da Informação
+Site: http://terminalroot.com.br/2017/02/100-melhores-ferramentas-de-seguranca-de-codigo-aberto.html
