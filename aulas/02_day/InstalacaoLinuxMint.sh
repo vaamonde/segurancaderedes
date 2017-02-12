@@ -16,6 +16,18 @@ Vídeo Aulas do GNU/Linux Mint: https://www.youtube.com/playlist?list=PLozhsZB1l
 
 Vídeo Aulas do GNU/Linux Ubuntu: https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u
 
+Documentário de GNU/Linux Revolution OS: https://www.youtube.com/watch?v=plMxWpXhqig
+
+Documentário de GNU/Linux The Code: https://www.youtube.com/watch?v=ZKo0aJmgV4Y
+
+Documentário de GNU/Linux Improprietário: https://www.youtube.com/watch?v=MKDn9quw5sc
+
+Documentário Gerras dos Navegadores: https://www.youtube.com/watch?v=0nz-lcuv3TM
+
+Documentário da História da Internet: https://www.youtube.com/watch?v=FHVPBueXudE
+
+Documentário da Origem dos Hackers: https://www.youtube.com/watch?v=kLYh0xdgKZI
+
 Download do Oracle VirtualBOX: https://www.virtualbox.org/wiki/Linux_Downloads
 (Baixar a versão 5.1 para GNU/Linux Ubuntu 16.04 Xenial x64 e também  VirtualBox Extension Pack)
 
