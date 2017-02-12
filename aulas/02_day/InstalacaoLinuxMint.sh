@@ -10,6 +10,8 @@ Download Multiboot: http://multibootusb.org/
 
 Apostila GNU/Linux Mint: https://www.linuxmint.com/documentation/user-guide/Cinnamon/portuguese_brazil_18.0.pdf
 
+Apostila de GNU/Linux: http://www.guiafoca.org/
+
 Vídeo Aulas do GNU/Linux Mint: https://www.youtube.com/playlist?list=PLozhsZB1lLUNcpyrspEOqpQHMQqoe1wDJ
 
 Vídeo Aulas do GNU/Linux Ubuntu: https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u
