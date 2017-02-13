@@ -22,7 +22,7 @@ Documentário de GNU/Linux The Code: https://www.youtube.com/watch?v=ZKo0aJmgV4Y
 
 Documentário de GNU/Linux Improprietário: https://www.youtube.com/watch?v=MKDn9quw5sc
 
-Documentário Gerras dos Navegadores: https://www.youtube.com/watch?v=0nz-lcuv3TM
+Documentário Guerras dos Navegadores: https://www.youtube.com/watch?v=0nz-lcuv3TM
 
 Documentário da História da Internet: https://www.youtube.com/watch?v=FHVPBueXudE
 
