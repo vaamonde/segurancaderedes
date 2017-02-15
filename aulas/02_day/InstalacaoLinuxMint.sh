@@ -12,6 +12,10 @@ Apostila GNU/Linux Mint: https://www.linuxmint.com/documentation/user-guide/Cinn
 
 Apostila de GNU/Linux: http://www.guiafoca.org/
 
+Guia Foca Iniciante + Intermediário: http://www.guiafoca.org/cgs/guia/inic_interm/index.html
+
+Guia Foca Avançado: http://www.guiafoca.org/cgs/guia/avancado/index.html
+
 Vídeo Aulas do GNU/Linux Mint: https://www.youtube.com/playlist?list=PLozhsZB1lLUNcpyrspEOqpQHMQqoe1wDJ
 
 Vídeo Aulas do GNU/Linux Ubuntu: https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u
@@ -38,26 +42,42 @@ Procedimentos que serão utilizados na aula:
 01. Criação do Pen-Driver utilizando o RUFUS no Windows;
 02. Configuração da BIOS dos Notebooks Itautec (pressionar F2, F12 seleciona o Menu de Boot);
 03. Inicialização da Instalação via Pen-Driver;
-04. Conhecendo o Boot Load do GNU/Linux Mint 18.1 (pressionar qualquer tecla antes do 10 segundos);
+04. Conhecendo o Boot Load do GNU/Linux Mint 18.1 (pressionar qualquer tecla antes dos 10 segundos);
 05. Rodando o GNU/Linux Mint via Live e conhecendo o Driver Manager;
-06. Instalando o GNU/Linux Mint 18.1 de forma segura;
-07. Atualizando o GNU/Linux Mint 18.1 utilizando o MintUpdate;
+06. Instalando o GNU/Linux Mint 18.1 de forma segura (utilizando LVM e Criptografia de Disco e Pasta Pessoal);
+07. Atualizando o GNU/Linux Mint 18.1 utilizando o MintUpdate e via Bash/Shell;
 08. Download do Oracle VirtualBOX 5.1 para GNU/Linux;
-09. Instalação do Oracle VirtualBOX e  VirtualBox Extension Pack;
-10. Download da ISO do GNU/Linux Ubuntu Server 16.04 LTS;
+09. Instalação do Oracle VirtualBOX e VirtualBox Extension Pack;
+10. Download da ISO do GNU/Linux Ubuntu Server 16.04 LTS.
 
-Atualizando o sistema via Bash/Shell
+Comandos utilizados na Aula:
 
-No GNU/Linux Mint recomendado utilizar o MintUpdate
+#Obter privilégios de root
+sudo -i
+
+#Verificando sua indentificação no sistema
+id
+
+#Saindo do Bash/Shell
+exit
+
+#Limpando a tela do Bash/Shell
+clear ou Ctrl+L
+
+#Atualizando o sistema via Bash/Shell utilizando o apt-get
+#No GNU/Linux Mint recomendado utilizar o MintUpdate
 
 #Atualizando as listas do Apt-Get
 sudo apt-get update
 
-#Atualizando todos os softwares
+#Atualizando todos os software instalados
 sudo apt-get upgrade
 
 #Atualizando a distribuição é o Kernel
 sudo apt-get dist-upgrade
+
+#Removendo software desnecessários
+sudo apt-get autoremove
 
 #Limpando o Cache do Apt-Get
 sudo apt-get clean
