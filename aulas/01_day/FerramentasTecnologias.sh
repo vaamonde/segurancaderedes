@@ -49,5 +49,8 @@ http://www.toptenreviews.com/software/security/best-antivirus-software/
 Sistema Operacional de Teste de Intrusão
 Pentest: Kali Linux: https://www.kali.org/
 
+Placa de Rede Wireless com suporte a tecnologia Promiscuous Mode (Modo Monitor)
+TP-Link TL-WN721N - Chipset Atheros Communications, Inc. AR9271 802.11n - driver: ath9k_htc - IEEE 802.11bgn
+
 Ferramentas de Segurança da Informação
 Site: http://terminalroot.com.br/2017/02/100-melhores-ferramentas-de-seguranca-de-codigo-aberto.html
