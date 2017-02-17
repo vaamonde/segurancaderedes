@@ -2,12 +2,14 @@ Acesso ao questionário de avaliação do Curso de Tecnologias em Segurança em 
 
 <a href="https://goo.gl/forms/RlXawi2ZwLvmJhLJ3" target="_blank">Clique aqui</a>
 
-Soluções que serão utilizadas no curso
+#Soluções que serão utilizadas no curso
 
-Apresentação do Primeiro dia: https://github.com/vaamonde/segurancaderedes/blob/master/pdf/ApresentacaoCursoDeSeguranca.pdf
+Apresentação do Primeiro dia: https://github.com/vaamonde/segurancaderedes/blob/master/pdf/ApresentacaoCursoDeSeguranca.pdf<br>
 
-Inventário de Rede:<br>
-Sistema Operacional: Ubuntu Server 16.04 LTS x64<br>
+Sistema Operacional: GNU/Linux Mint 18.1 LTS x64 Cinnamon:<br>
+Download: https://www.linuxmint.com/edition.php?id=226<br>
+
+Sistema Operacional: Ubuntu Server 16.04.1 LTS x64<br>
 Download: http://releases.ubuntu.com/16.04/<br>
 
 Serviços de Rede: LAMP Server<br>
