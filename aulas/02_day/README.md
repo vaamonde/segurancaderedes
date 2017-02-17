@@ -50,34 +50,34 @@ Procedimentos que serão utilizados na aula:
 09. Instalação do Oracle VirtualBOX e VirtualBox Extension Pack;
 10. Download da ISO do GNU/Linux Ubuntu Server 16.04 LTS.
 
-Comandos utilizados na Aula:
+<b>Comandos utilizados na Aula:</b>
 
-#Obter privilégios de root
-sudo -i
+<b>Obter privilégios de root</b><br>
+<i>sudo -i</i>
 
-#Verificando sua indentificação no sistema
-id
+<b>Verificando sua indentificação no sistema</b><br>
+<i>id</i>
 
-#Saindo do Bash/Shell
-exit
+<b>Saindo do Bash/Shell</b><br>
+<i>exit</i>
 
-#Limpando a tela do Bash/Shell
-clear ou Ctrl+L
+<b>Limpando a tela do Bash/Shell</b><br>
+<i>clear ou Ctrl+L</i>
 
-#Atualizando o sistema via Bash/Shell utilizando o apt-get
-#No GNU/Linux Mint recomendado utilizar o MintUpdate
+<b>Atualizando o sistema via Bash/Shell utilizando o apt-get
+No GNU/Linux Mint recomendado utilizar o MintUpdate</b><br>
 
-#Atualizando as listas do Apt-Get
-sudo apt-get update
+<b>Atualizando as listas do Apt-Get</b><br>
+<i>sudo apt-get update</i>
 
-#Atualizando todos os software instalados
-sudo apt-get upgrade
+<b>Atualizando todos os software instalados</b><br>
+<i>sudo apt-get upgrade</i>
 
-#Atualizando a distribuição é o Kernel
-sudo apt-get dist-upgrade
+<b>Atualizando a distribuição é o Kernel</b><br>
+<i>sudo apt-get dist-upgrade</i>
 
-#Removendo software desnecessários
-sudo apt-get autoremove
+<b>Removendo software desnecessários</b><br>
+<i>sudo apt-get autoremove</i>
 
-#Limpando o Cache do Apt-Get
-sudo apt-get clean
+<b>Limpando o Cache do Apt-Get</b><br>
+<i>sudo apt-get clean</i>
