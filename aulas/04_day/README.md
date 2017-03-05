@@ -65,7 +65,7 @@ Site: http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-pwd
 
 Site do Aurelio.net: http://aurelio.net/
 
-#Trabalhando com os principais comandos de manipulação de arquivos e diretórios e rede:
+#Trabalhando com os principais comandos de manipulação de arquivos, diretórios e rede:
 
 <b>Comandos para manipulação de diretório</b><br>
 ls        http://www.guiafoca.org/cgs/guia/inic_interm/ch-cmdd.html#s-comando-ls<br>
