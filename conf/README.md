@@ -1,1 +1,1 @@
-Arquivos de configurações do curso
+Arquivos de configurações utilizados no curso
