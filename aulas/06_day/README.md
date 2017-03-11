@@ -41,11 +41,3 @@ http://www.guiafoca.org/cgs/guia/avancado/ch-s-samba.html#s-s-samba-usermap-w<br
 
 /etc/network/interfaces: Responsavél pela configuração das placas de rede<br>
 http://www.guiafoca.org/cgs/guia/inic_interm/ch-etc.html#s-etc-network-interfaces<br>
-
-<b>Trabalhando com as Interfaces de Rede</b><br>
-
-Informações das Interfaces: http://www.guiafoca.org/cgs/guia/inic_interm/ch-rede.html#s-rede-interfaces
-
-ifconfig: http://www.guiafoca.org/cgs/guia/inic_interm/ch-rede.html#s-rede-interfaces-c<br>
-ifdown: desliga a interface<br>
-ifup: liga a interface<br>
