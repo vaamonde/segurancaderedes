@@ -24,7 +24,7 @@ sudo apt-get install phpmyadmin<br>
 #Testando o Apache2<br>
 cd /var/www/html<br>
 sudo vim phpinfo.php<br>
-;<?php phpinfo(); ?>
+'<?php phpinfo(); ?>
 
 #Instalando o servidor de DHCP<br>
 sudo apt-get install isc-dhcp-server
