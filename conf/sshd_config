@@ -41,7 +41,7 @@ AllowGroups vaamonde
 
 # Usuários que não tem permissão de acesso ao SSH
 DenyUsers root
-DenyUsers root
+DenyGroups root
 
 # Banner que será apresentado no momento do acesso ao SSH
 Banner /etc/issue.net
