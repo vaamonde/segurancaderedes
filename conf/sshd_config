@@ -55,7 +55,7 @@ ClientAliveCountMax 0
 MaxAuthTries 3
 
 # Endereço IP do servidor que está liberado para permitir conexões via SSH
-ListenAddress 192.168.1.10
+#ListenAddress 192.168.1.10
 
 # Não ler os arquivos ~/.rhosts e ~/.shosts
 IgnoreRhosts yes
@@ -73,7 +73,7 @@ X11Forwarding no
 PubkeyAuthentication yes
 
 # Especifica se a autenticação de senha é permitida. O padrão é yes.
-PasswordAuthentication no
+PasswordAuthentication yes
 
 # Ativar a verificação do nome reverso
 VerifyReverseMapping yes
