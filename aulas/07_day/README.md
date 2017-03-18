@@ -10,16 +10,16 @@ sudo apt-get upgrade
 sudo apt-get install ntp ntpdate
 
 #Instalando o servidor de KDC Kerberos<br>
-sudo apt-get install krb5-kdc krb5-config<br>
 #digitar o nome do domínio, nome do servidor FQDN e novo do servidor de KDC<br>
+sudo apt-get install krb5-kdc krb5-config<br>
 
 #Instalando o LAMP Server (Apache2, MySQL, PHP, Perl Python)<br>
-sudo apt-get install lamp-server^<br>
 #digitar a senha do usuário ROOT do MySQL<br>
+sudo apt-get install lamp-server^<br>
 
 #Instalando o gerenciador Web do MySQL<br>
-sudo apt-get install phpmyadmin<br>
 #selecionar o servidor apache2 e digitar a senha do usuário phpmyadmin<br>
+sudo apt-get install phpmyadmin<br>
 
 #Testando o Apache2<br>
 cd /var/www/html<br>
