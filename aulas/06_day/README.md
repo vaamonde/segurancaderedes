@@ -20,7 +20,7 @@ Informações de Criptografia: http://www.guiafoca.org/cgs/guia/avancado/ch-d-cr
 
 Informações avançadas de rede: http://www.guiafoca.org/cgs/guia/avancado/ch-rede.html
 
-#Conhcendo o Editor de Texto VIM e Trabalhando com Configurações de Rede
+<h1>Conhcendo o Editor de Texto VIM e Trabalhando com Configurações de Rede</h1>
 
 <b>Editor de Texto VIM Básico</b><br>
 por Aurélio Marinho Jargas<br>
