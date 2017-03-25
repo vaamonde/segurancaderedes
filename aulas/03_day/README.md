@@ -1,4 +1,4 @@
-Instalação e configuração do GNU/Linux Ubuntu Server
+<h1>Instalação e configuração do GNU/Linux Ubuntu Server</h1>
 
 Informações sobre RAID: https://pt.wikipedia.org/wiki/RAID
 
