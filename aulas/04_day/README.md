@@ -1,4 +1,4 @@
-Comandos utilizados na Aula:
+<h1>Comandos utilizados na Aula:</h1>
 
 <b>Atualizando o sistema via Bash/Shell utilizando o apt-get
 No GNU/Linux Mint recomendado utilizar o MintUpdate
