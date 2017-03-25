@@ -1,10 +1,10 @@
-#Conhcendo o Editor de Texto VIM e Trabalhando com Configurações de Rede
+<h1>Conhcendo o Editor de Texto VIM e Trabalhando com Configurações de Rede</h1>
 
 <b>Editor de Texto VIM Básico</b><br>
 por Aurélio Marinho Jargas<br>
 Site: http://aurelio.net/vim/vim-basico.txt
 
-<b>Comandos de Manipulação de Rede</b><br>
+<h1>Comandos de Manipulação de Rede</h1>
 
 <b>Principais arquivos de configurações de rede e sua localização</b><br>
 
