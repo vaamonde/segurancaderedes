@@ -32,12 +32,6 @@ sudo apt-get install isc-dhcp-server
 #Instalando o servidor de DNS Bind9<br>
 sudo apt-get install bind9
 
-#Instalando o servidor de Arquivos e Controlador de Domínio SAMBA-4<br>
-sudo apt-get install samba samba-common samba-vfs-modules samba-testsuite acl
-
-#Instalando o servidor de impressão CUPS<br>
-sudo apt-get install cups cups-pdf
-
 #Instalando as dependências do Gerenciador de Servidor WebAdmin<br>
 sudo apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python
 
