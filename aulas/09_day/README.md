@@ -29,3 +29,7 @@ Canivete Suíço do Shell (Bash): http://aurelio.net/shell/canivete/<br>
 Shell Script: http://aurelio.net/shell/<br>
 Expressões Regulares: http://aurelio.net/regex/<br>
 VIM: http://aurelio.net/vim/
+
+<h1>Baixando os script via Git</h1>
+
+git clone https://github.com/vaamonde/samba4-l2
