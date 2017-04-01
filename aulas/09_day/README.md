@@ -17,3 +17,7 @@ https://pt.wikipedia.org/wiki/Project_Management_Institute
 <h1>Instalação do GNU/Linux Ubuntu Server como AD-DS (Active Directory - Domain Service)</h1>
 
 Utilização dos script d curso: https://github.com/vaamonde/samba4-l2
+
+<h1>Padronização de Nomes de Computadores</h1>
+
+Utilizar o artigo: https://github.com/vaamonde/segurancaderedes/blob/master/pdf/03-ProcedimentosDePadronizacaoDeNomes.pdf
