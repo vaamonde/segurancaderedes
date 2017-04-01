@@ -21,3 +21,11 @@ Utilização dos script d curso: https://github.com/vaamonde/samba4-l2
 <h1>Padronização de Nomes de Computadores</h1>
 
 Utilizar o artigo: https://github.com/vaamonde/segurancaderedes/blob/master/pdf/03-ProcedimentosDePadronizacaoDeNomes.pdf
+
+<h1>Shell Script - GNU/Linux - Bash avançado</h1>
+
+Site Aurelio.net: http://aurelio.net/<br>
+Canivete Suíço do Shell (Bash): http://aurelio.net/shell/canivete/<br>
+Shell Script: http://aurelio.net/shell/<br>
+Expressões Regulares: http://aurelio.net/regex/<br>
+VIM: http://aurelio.net/vim/
