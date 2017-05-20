@@ -2,7 +2,7 @@ git clone https://github.com/vaamonde/nmap-nse-scripts
  
 git clone https://github.com/vaamonde/exploit
 
-Verificar versão do NMAP:	nmap --version<br>
+Verificar versão do NMAP:<br>	nmap --version<br>
 				man nmap<br>
 							
 nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb-vuln-ms17-010.nse localhost<br>
