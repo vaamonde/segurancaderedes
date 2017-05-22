@@ -4,6 +4,8 @@ git clone https://github.com/vaamonde/exploit
 
 git clone https://github.com/vaamonde/Eternalblue-Doublepulsar-Metasploit
 
+git clone https://github.com/vaamonde/FakeImageExploiter
+
 Verificar versão do NMAP:<br>	nmap --version<br>
 				man nmap<br>
 							
