@@ -2,6 +2,8 @@ git clone https://github.com/vaamonde/nmap-nse-scripts
  
 git clone https://github.com/vaamonde/exploit
 
+git clone https://github.com/vaamonde/Eternalblue-Doublepulsar-Metasploit
+
 Verificar versão do NMAP:<br>	nmap --version<br>
 				man nmap<br>
 							
