@@ -9,10 +9,13 @@ git clone https://github.com/vaamonde/FakeImageExploiter
 Verificar versão do NMAP:<br>	nmap --version<br>
 				man nmap<br>
 				
-nmap -O -A -sV 192.168.1.0/24<br>
+nmap -O -A -sV 10.26.46.0/24<br>
 -O = detecção do Sistema Operacional<br>
 -A = detecção do Sistema Operacional e Versão<br>
 -sV = detecção do Sistema Operacional e Versão<br>
+
+nmap -sS 10.26.46.45/24
+-sS = detecção de portas TCP
 
 nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb-vuln-ms17-010.nse localhost<br>
 -d = habilita a Debug (log detalhado, pode ir até a opção 9)<br>
