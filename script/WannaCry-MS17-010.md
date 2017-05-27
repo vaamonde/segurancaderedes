@@ -34,7 +34,7 @@ nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb
 
 Atualizar o Metasploit:		msfupdate<br>
 Acessar o Metasploit:		msfconsole<br>
-Reload dos Exploit		reload_all<br>
+Reload dos Exploit:		reload_all<br>
 Acessar o Modo Scan:<br>	use auxiliary/scanner/smb/smb_ms17_010<br>
 				show options<br>
 				set rhosts 192.168.1.1<br>
