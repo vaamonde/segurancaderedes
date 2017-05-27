@@ -6,16 +6,19 @@ git clone https://github.com/vaamonde/Eternalblue-Doublepulsar-Metasploit
 
 git clone https://github.com/vaamonde/FakeImageExploiter
 
-Verificar versão do NMAP:<br>	nmap --version<br>
-				man nmap<br>
+Verificar versão do NMAP:<br>	
+nmap --version<br>
+
+Manual do NMAP<br>
+man nmap<br>
 				
 nmap -O -A -sV 10.26.46.0/24<br>
 -O = detecção do Sistema Operacional<br>
 -A = detecção do Sistema Operacional e Versão<br>
 -sV = detecção do Sistema Operacional e Versão<br>
 
-nmap -sS 10.26.46.45/24
--sS = detecção de portas TCP
+nmap -sS 10.26.46.45/24<br>
+-sS = detecção de portas TCP<br>
 
 nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb-vuln-ms17-010.nse localhost<br>
 -d = habilita a Debug (log detalhado, pode ir até a opção 9)<br>
@@ -32,7 +35,7 @@ nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb
 Atualizar o Metasploit:		msfupdate<br>
 Acessar o Metasploit:		msfconsole<br>
 Reload dos Exploit		reload_all<br>
-Acessar o Modo Scan:<br>		use auxiliary/scanner/smb/smb_ms17_010<br>
+Acessar o Modo Scan:<br>	use auxiliary/scanner/smb/smb_ms17_010<br>
 				show options<br>
 				set rhosts 192.168.1.1<br>
 				exploit<br>
