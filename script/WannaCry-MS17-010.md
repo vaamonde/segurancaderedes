@@ -9,18 +9,18 @@ git clone https://github.com/vaamonde/FakeImageExploiter
 Verificar versão do NMAP:<br>	nmap --version<br>
 				man nmap<br>
 				
-nmap -O -A -sV 192.168.1.0/24
--O = detecção do Sistema Operacional
--A = detecção do Sistema Operacional e Versão
--sV = detecção do Sistema Operacional e Versão
+nmap -O -A -sV 192.168.1.0/24<br>
+-O = detecção do Sistema Operacional<br>
+-A = detecção do Sistema Operacional e Versão<br>
+-sV = detecção do Sistema Operacional e Versão<br>
 
 nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb-vuln-ms17-010.nse localhost<br>
--d = habilita a Debug (log detalhado, pode ir até a opção 9)
--sC = habilitar o rastreamento de scann de portas
--p = número da porta a rastrear (445 - Microsoft-df - SMB/CIFS)
---open = verificar somente portas abertas
---max-hostgroup = número máximo de grupos para o scaneamento
---script = indicar script remoto para o scan
+-d = habilita a Debug (log detalhado, pode ir até a opção 9)<br>
+-sC = habilitar o rastreamento de scann de portas<br>
+-p = número da porta a rastrear (445 - Microsoft-df - SMB/CIFS)<br>
+--open = verificar somente portas abertas<br>
+--max-hostgroup = número máximo de grupos para o scaneamento<br>
+--script = indicar script remoto para o scan<br>
 
 nmap -d -sC -p445 --open --max-hostgroup 3 --script nmap-nse-scripts/scripts/smb-vuln-ms17-010.nse 192.168.1.0/24<br>
 
