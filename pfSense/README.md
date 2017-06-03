@@ -12,6 +12,8 @@ Sites SSL: https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure
 
 Sites TLS: https://pt.wikipedia.org/wiki/Transport_Layer_Security
 
+Sites HSTS: https://imasters.com.br/infra/seguranca/hsts-meu-https-nao-esta-seguro/?trace=1519021197&source=single
+
 Site MITM: https://pt.wikipedia.org/wiki/Ataque_man-in-the-middle
 
 Expressões Regulares: http://aurelio.net/regex/guia/
