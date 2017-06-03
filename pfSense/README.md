@@ -16,6 +16,8 @@ Sites HSTS: https://imasters.com.br/infra/seguranca/hsts-meu-https-nao-esta-segu
 
 Site MITM: https://pt.wikipedia.org/wiki/Ataque_man-in-the-middle
 
+Site Blacklist: http://www.shallalist.de/Downloads/shallalist.tar.gz
+
 Expressões Regulares: http://aurelio.net/regex/guia/
 
 Block MIME Types:	list mime type iana
