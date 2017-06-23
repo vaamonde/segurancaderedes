@@ -36,5 +36,5 @@ Expressão Regular:<br>
 "[" e "]" representam um conjunto de caracteres opcionais. Dentro do conjunto, você pode especificar caracteres isolados (tipo [acE]), faixas ([a-z]) ou exclusões ([^a] significa qq coisa exceto "a") [note que há muito mais, mas isto é apenas um resumo].<br>
 "|" significa strings alternativas, tipo "maçã|laranja".<br>
 
-(.*\/.*\.(asf|zip|rar|cab|avi|swf|exe|mpeg|mp.|wm.|vpu))<br>
+"(.*\/.*\.(asf|zip|rar|cab|avi|swf|exe|mpeg|mp.|wm.|vpu))"<br>
 http://www.baixaki.com.br/win.cab
