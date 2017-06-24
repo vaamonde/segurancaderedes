@@ -20,6 +20,8 @@ Site Blacklist: http://www.shallalist.de/Downloads/shallalist.tar.gz
 
 Expressões Regulares: http://aurelio.net/regex/guia/
 
+Teste de expressão regular: http://www.regexpal.com/
+
 Block MIME Types:	list mime type iana
 
 ^(.`*`)video(.`*`)$
