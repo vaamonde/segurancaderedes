@@ -38,3 +38,15 @@ Expressão Regular:<br>
 
 "(.`*`\/.`*`\.(asf|zip|rar|cab|avi|swf|exe|mpeg|mp.|wm.|vpu))"<br>
 http://www.baixaki.com.br/win.cab
+
+Tipos de NAT<br>
+DNAT (Destination NAT)<br>
+SNAT (Source NAT)<br>
+NAT Estático:	1 para 1<br>
+NAT Dinâmico:	1 para NAT<br>
+NAPT (Network Address Port Translation)<br>
+Twice NAT (2x NAT)<br>
+Bi-Directional NAT (ou two-way):<br>
+NAT-PT: O NAT-PT (Network Address Translation - Protocol Translation)<br>
+NAT Overloading (PAT)<br>
+NAT Overlapping
