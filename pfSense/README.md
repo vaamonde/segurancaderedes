@@ -28,7 +28,7 @@ Block MIME Types:	list mime type iana
 
 Expressão Regular:<br>
 "." significa qualquer coisa, qualquer caracter.<br>
-"\" significa que o próximo caracter não tem função especial, caracter de escape.<br>
+"`\`" significa que o próximo caracter não tem função especial, caracter de escape.<br>
 "*" significa que o elemento anterior pode ser repetido 0 ou mais vezes.<br>
 "+" significa que o elemento anterior pode ser repetido 1 ou mais vezes.<br>
 "?" significa que o elemento anterior pode aparecer ou não.<br>
